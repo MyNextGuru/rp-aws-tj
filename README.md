@@ -1,1 +1,1 @@
-# rp-aws-tj
+Activate Virtual Environment -> source venv/bin/activate
